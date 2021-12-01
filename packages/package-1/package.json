@@ -1,6 +1,6 @@
 {
   "name": "@fork-fe/package-1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "yongkai.shao <yongkai.shao@vhall.com>",
   "homepage": "https://github.com/ykshao/lerna-learn01#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/ykshao/lerna-learn01/issues"
   },
   "dependencies": {
-    "@fork-fe/base": "^0.0.1"
+    "@fork-fe/base": "^0.0.2"
   },
   "gitHead": "1e6a3cfdc7f3088da55aff85d1860faa6e8c8c3b"
 }
