@@ -2,6 +2,6 @@
 
 const package1 = require('..');
 
-describe('package-1', () => {
+describe('@fork-fe/package-1', () => {
     it('needs tests');
 });
