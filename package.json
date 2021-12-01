@@ -1,0 +1,12 @@
+{
+  "name": "lerna-learn01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
